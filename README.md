@@ -1,0 +1,2 @@
+# GenericTypeScript
+Created with CodeSandbox
